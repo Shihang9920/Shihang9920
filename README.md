@@ -21,7 +21,6 @@
 </div>
 
 # I am Shihang , NORMAL-GUY . 
-## I am a programmer
 ## My Tech Stack
 
 <table>
